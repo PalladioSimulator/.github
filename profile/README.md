@@ -25,7 +25,7 @@ Current research topics include for example
 
 ### Integrate and cooperate with Palladio
 
-The [Palladio-Bench](https://www.palladio-simulator.com/tools) is open source tool support for the Palladio approach. Also Palladio research is open to external contributors, research cooperations, researcher which like to extend Palladio, and users who like to use Palladio “as-is”.
+The [Palladio-Bench](https://github.com/PalladioSimulator/.github/wiki/Palladio-Tools) is open source tool support for the Palladio approach. Also Palladio research is open to external contributors, research cooperations, researcher which like to extend Palladio, and users who like to use Palladio “as-is”.
 
 Options to integrate in Palladio include
 
