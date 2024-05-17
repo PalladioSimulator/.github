@@ -5,7 +5,7 @@ Palladio is a well-validated approach for the prediction of Quality of Service (
 [Numerous publications](https://dsis.kastel.kit.edu/research/publications.php) demonstrate the applicability of Palladio for scientific and real-world industrial scenarios of different domains. Ongoing development effort and the continuous integration of latest scientific trends provides cutting-edge features to researchers and practictioners.
 
 From a scientific perspective, Palladio comprises
-- The [Palladio Component Model (PCM)](https://www.palladio-simulator.com/science/palladio_component_model/), a detailed meta-model of component-based software architectures.
+- The [Palladio Component Model (PCM)](https://github.com/PalladioSimulator/.github/wiki/Paladio-Component-Model), a detailed meta-model of component-based software architectures.
 - A component-based software development process. Palladio is aligned with this process and enables distributed modeling for component-based software development scenarios.
 - A software architecture simulator: Multiple performance, reliability, maintainability, and [cost prediction](
 https://github.com/PalladioSimulator/.github/wiki/Cost-Prediction-with-Palladio) approaches are combined. The approaches, by means of analysis or simulation, calculate metrics (e.g. response time) from Palladio models (instance of the PCM).
