@@ -46,6 +46,13 @@ Options to integrate in Palladio include
 
 Here you will find a selection of core scientific literature and documentation of Palladio. General information is available here, tool-related documentation (tutorials and screencasts) is located in the tools section, and developer-related documentation is placed in the Palladio Developer Wiki.
 
+#### Palladio Book
+The creators of Palladio have published a dedicated book *Modeling and Simulating Software Architectures – The Palladio Approach*, which desciribes key concepts of Palladio’s domain-specific modeling language for software architecture quality and presents the corresponding development stage.
+You can find more information on the following sites:
+* [Google Books](https://books.google.de/books?id=QztMDQAAQBAJ&printsec=frontcover)
+* [MIT Press](https://mitpress.mit.edu/9780262034760/modeling-and-simulating-software-architectures/)
+* [KIT Library](https://publikationen.bibliothek.kit.edu/1000071486)
+
 #### Key Publications in English
 
 - [Overview of the Palladio Component Model](https://www.palladio-simulator.com/assets/files/Introduction-Chapter-PCM.pdf) (28 pages, PDF): Palladio introductive paper
