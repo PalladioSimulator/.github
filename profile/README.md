@@ -13,7 +13,7 @@ https://github.com/PalladioSimulator/.github/wiki/Cost-Prediction-with-Palladio)
 
 More information on the scientific background of Palladio and developer information can be found in the [Palladio Developer Wiki](http://sdqweb.ipd.kit.edu/wiki/Palladio).
 
-The development of the Palladio [started back in 2003]([https://www.palladio-simulator.com/about/history/](https://github.com/PalladioSimulator/.github/wiki/History)) at the University of Oldenburg, and is nowadays developed at [Karlsruhe Institute of Technology (KIT)](http://www.kit.edu/english/), [FZI Research Center for Information Technology](http://www.fzi.de/en), and [Paderborn University](http://www.uni-paderborn.de/). Further scientific cooperations and research partners contribute in terms of scientific exchange and tool development.
+The development of the Palladio [started back in 2003]([https://www.palladio-simulator.com/about/history/](https://github.com/PalladioSimulator/.github/wiki/History)) at the University of Oldenburg, and is nowadays developed at [Karlsruhe Institute of Technology (KIT)](http://www.kit.edu/english/), [FZI Research Center for Information Technology](http://www.fzi.de/en), and [Paderborn University](http://www.uni-paderborn.de/en/). Further scientific cooperations and research partners contribute in terms of scientific exchange and tool development.
 
 Current research topics include for example
 
