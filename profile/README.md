@@ -5,13 +5,13 @@ Palladio is a well-validated approach for the prediction of Quality of Service (
 [Numerous publications](https://dsis.kastel.kit.edu/research/publications.php) demonstrate the applicability of Palladio for scientific and real-world industrial scenarios of different domains. Ongoing development effort and the continuous integration of latest scientific trends provides cutting-edge features to researchers and practictioners.
 
 From a scientific perspective, Palladio comprises
-- The [Palladio Component Model (PCM)](https://github.com/PalladioSimulator/.github/wiki/Paladio-Component-Model), a detailed meta-model of component-based software architectures.
+- The [Palladio Component Model (PCM)](https://github.com/PalladioSimulator/.github/wiki/Palladio-Component-Model), a detailed meta-model of component-based software architectures.
 - A component-based software development process. Palladio is aligned with this process and enables distributed modeling for component-based software development scenarios.
-- A software architecture simulator: Multiple performance, reliability, maintainability, and [cost prediction](
-https://github.com/PalladioSimulator/.github/wiki/Cost-Prediction-with-Palladio) approaches are combined. The approaches, by means of analysis or simulation, calculate metrics (e.g. response time) from Palladio models (instance of the PCM).
+- A software architecture simulator: Multiple performance, reliability, maintainability, and cost prediction [approaches](
+https://github.com/PalladioSimulator/.github/wiki/Quality-Dimensions) are combined. The approaches, by means of analysis or simulation, calculate metrics (e.g. response time) from Palladio models (instance of the PCM).
 - Tool support: the [Palladio-Bench](https://github.com/PalladioSimulator/.github/wiki/Palladio-Tools) implements all aspects of Palladio. It is extendable in such a way that it can serve as an implementation base for new scientific directions.
 
-More information on the scientific background of Palladio and developer information can be found in the [Palladio Developer Wiki](http://sdqweb.ipd.kit.edu/wiki/Palladio).
+More information on the scientific background of Palladio and developer information can be found in the [GitHub Wiki](https://github.com/PalladioSimulator/.github/wiki).
 
 The development of the Palladio [started back in 2003]([https://www.palladio-simulator.com/about/history/](https://github.com/PalladioSimulator/.github/wiki/History)) at the University of Oldenburg, and is nowadays developed at [Karlsruhe Institute of Technology (KIT)](http://www.kit.edu/english/), [FZI Research Center for Information Technology](http://www.fzi.de/en), and [Paderborn University](http://www.uni-paderborn.de/en/). Further scientific cooperations and research partners contribute in terms of scientific exchange and tool development.
 
